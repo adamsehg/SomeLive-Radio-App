@@ -1,0 +1,12 @@
+{
+    "station":
+    [
+     {
+     "name": "SomeLive Radio",
+     "streamURL": "http://s2.radio.co/s681298fa0/listen.m3u",
+     "imageURL": "station-someliveradio",
+     "desc": "We are now live!",
+     "longDesc": "All of your favorite latin classic hits and artists, on some.live, playing non-stop, salsa, ballads, merengue and more!. Absolute Sabor Latino.                                                    You can visit our website at www.some.live"
+     }
+    ]
+}
